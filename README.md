@@ -15,7 +15,7 @@ Degree: BSc Computer Engineering — Politecnico di Torino                ░░
 Team: pwnthem0le (CTF)                                                  ░░░█▀███████▀█░░░
 Tracks: pwn, reversing                                                  ░░░█░█▀▀▀▀▀█░█░░░
 I/O: coding ↔ debugging                                                 ░░░░░░▀▀░▀▀░░░░░░
-Key: flag(b0f_g03s_brrr)                                                ░░░░░░░░░░░░░░░░░
+Key: flag{b0f_g03s_brrr}                                                ░░░░░░░░░░░░░░░░░
 ```
 
 
