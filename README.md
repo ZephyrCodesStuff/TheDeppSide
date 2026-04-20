@@ -26,7 +26,7 @@ I’m a **Computer Engineering** bachelor student at **Politecnico di Torino** a
 
 ## What I’m into
 - Mostly **IT** — systems, networks, and everything in between
-- **Security & CTFs**: binary exploitation (pwn) and reversing
+- **Security & CTFs** — binary exploitation (pwn) and reversing
 - **Cybersecurity** — vulnerability research, hardening, tooling
 - **Vibecoding** — quick scripts, fun experiments, automation
 
